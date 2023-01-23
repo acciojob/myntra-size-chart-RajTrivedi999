@@ -1,2 +1,13 @@
 
 /* Your CSS Code here. */
+.one{
+	text-align:end !important;
+}
+table,td,th{
+	border:1px solid black;
+	border-collapse: collapse;
+	text-align:start;
+}
+table{
+	width:100%;
+}
